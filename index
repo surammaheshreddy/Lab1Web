@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Webpage </title>
+<style>
+  .image-container {
+    text-align: center; 
+  }
+</style>
+</head>
+<body>
+  <h1 style="text-align: center;"> Web Hosting </h1>
+  
+  <div class="image-container">
+    <img src="webhosting image.jpg" width="500" height="500" alt="Web Hosting">
+  </div>
+</body>
+</html>
